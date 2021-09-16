@@ -1,2 +1,0 @@
-# ConversorDec2Bin
- 
