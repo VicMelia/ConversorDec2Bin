@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ConversorDec2bin
  
  ## Instrucciones del código del archivo ConversorDec2bin.py
@@ -9,3 +10,7 @@
    
 	
  
+=======
+# ConversorDec2bin
+ 
+>>>>>>> b2015bacc6878f1e723b7a3313e0e2df76c72fd1
